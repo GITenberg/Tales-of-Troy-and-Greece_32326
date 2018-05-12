@@ -1,0 +1,44 @@
+_repo: Tales-of-Troy-and-Greece_32326
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Ford, H. J. (Henry Justice)
+    alias: Ford, Henry Justice
+    birthdate: 1860
+    deathdate: 1941
+    gutenberg_agent_id: '26630'
+    url: http://www.gutenberg.org/2009/agents/26630
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Justice_Ford
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: 'The first part of this e-book ("Ulysses the Sacker of Cities") is a
+  duplication of e-book #1973, which ends with the fall of Troy. This e-book includes
+  material not in #1973: the wanderings of Ulysses after the war and his return home,
+  and the stories of the golden fleece, Thesues and Perseus.'
+gutenberg_issued: '2010-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32326'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mythology, Greek'
+- !lcc 'BL'
+- !lcsh 'Troy (Extinct city) -- Legends'
+- !lcsh 'Trojan War -- Literature and the war'
+tableOfContents: Ulysses, the sacker of cities -- The wanderings of Ulysses -- The
+  fleece of gold -- Theseus -- Perseus.
+title: Tales of Troy and Greece
+url: http://www.gutenberg.org/ebooks/32326
